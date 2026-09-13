@@ -1,0 +1,12 @@
+{
+  "version": "1.0.0",
+  "published": "2026-09-13T12:01:37.070Z",
+  "notes": "",
+  "platforms": {
+    "win32": {
+      "url": "https://github.com/Roronoazorox01/cepelcode_installer/releases/download/v1.0.0/CepelCode.Setup.1.0.0.exe",
+      "sha256": "6fa943ed983953095653ae581538f453f234f0e6b3fb352ce622aa989b91fa38",
+      "size": 108688152
+    }
+  }
+}
